@@ -35,6 +35,7 @@ and then loaded by lk2nd.
 - Xiaomi Mi A2 Lite - daisy
 - Xiaomi Mi A1 - tissot
 - XIaomi Mi A2 Lite - daisy
+- Xiaomi UTER - uter
 - Samsung Galaxy Tab A2 XL WiFi (2018) - SM-T590
 
 ## Installation
